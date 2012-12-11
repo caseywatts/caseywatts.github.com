@@ -150,7 +150,8 @@ hr {
 }
 /* line 134, ../_sass/_base.scss */
 .content p {
-  padding-bottom: 15px;
+  padding-top: 15px;
+  padding-bottom: 10px;
   line-height: 25px;
   margin: 0;
 }
@@ -402,4 +403,9 @@ div.sidebar section img.icon {
   -ms-border-radius: 5px;
   -o-border-radius: 5px;
   border-radius: 5px;
+}
+
+.postlist {
+  margin-top:70px;
+  margin-bottom:70px;
 }

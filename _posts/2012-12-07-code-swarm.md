@@ -1,6 +1,6 @@
 ---
 layout: post
-category : silly
+category : programming
 tags : [github]
 ---
 
@@ -11,12 +11,17 @@ It's so pretty!
 You can see how rails progress really spiked when they switched to github: `http://vimeo.com/2979844`
 
 
-
 I cloned this, set it up etc:
-`https://github.com/rictic/code_swarm`
+
+{% highlight html %}
+https://github.com/rictic/code_swarm
+{% endhighlight %}
 
 I had to revert this commit to make it work (put a note on their wiki page to say so; I don't know enough python to fix it myself)
-`https://github.com/rictic/code_swarm/commit/f15334b162bd0f3f939f3879fbec1935bd094c8c`
+{% highlight html %}
+https://github.com/rictic/code_swarm/commit/f15334b162bd0f3f939f3879fbec1935bd094c8c
+{% endhighlight %}
+
 
 Then I ran code_swarm once
 
