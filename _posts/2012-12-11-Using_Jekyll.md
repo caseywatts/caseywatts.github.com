@@ -20,3 +20,5 @@ This allows me to write using pretty code blocks, such as:
   end
 ```
 </pre>
+
+Except that it doesn't work on github pages, had to roll back :P
