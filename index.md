@@ -6,6 +6,13 @@ tagline: Systems Optimizer
 {% include JB/setup %}
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+
+
+## Highlighting Example
+
+{% highlight ruby %}
+puts "A simple"
+{% endhighlight %}
  
 ## List of Posts
 
