@@ -6,12 +6,6 @@ tagline: Systems Optimizer
 
 Casey Watts likes to optimize systems. He likes technology, healthcare,
 coding, dancing, singing, and lolling.
-
-## Highlighting Example
-
-```ruby
-puts "A simple"
-```
  
 ## List of Posts
 
