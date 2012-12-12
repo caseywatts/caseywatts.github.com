@@ -9,13 +9,6 @@ Casey Watts likes to `optimize systems`.
 
 He likes `technology`, `healthcare`, `coding`, `dancing`, `singing`, and `lolling`.
 
-He writes about
-
-<ul class="tag_box inline">
-  {% assign tags_list = site.tags %}  
-  {% include JB/tags_list %}
-</ul>
-
 ----
 {% for post in site.posts %}
 <a href="{{ BASE_PATH }}{{ post.url }}">
