@@ -2,7 +2,7 @@
 layout: post
 title: Using Jekyll
 tags:
-subtitle: "Jekyll is the coder-friendliest blogging software I've found. Git+markdown+MacVIM = :D"
+tagline: "Jekyll is the coder-friendliest blogging software I've found. Git+markdown+MacVIM = :D"
 date: Dec 10, 2012
 ---
 

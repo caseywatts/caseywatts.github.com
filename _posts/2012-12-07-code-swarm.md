@@ -1,11 +1,16 @@
 ---
 layout: post
 category : programming
-tags : [github]
-subtitle: CodeSwarm visualizes code collaboration from git repositories
+tags : [github, tools]
+tagline: visualizes code collaboration from git repositories
 ---
+<div class="lead">
+  {{ post.subtitle }}
+</div>
 
-It's so pretty!
+<div class="lead">
+  It's so pretty!
+</div>
 
 ##Examples
 You can see how rails progress really spiked when they switched to github:
