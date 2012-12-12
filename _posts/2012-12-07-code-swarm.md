@@ -2,7 +2,7 @@
 layout: post
 category : programming
 tags : [github, tools]
-tagline: visualizes code collaboration from git repositories
+tagline: Visualizes code collaboration from git repositories
 ---
 <div class="lead">
   {{ post.subtitle }}

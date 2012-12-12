@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Markdown to Slide Presentation
-tagline: Every once in a while I look around. It's not quite here yet.
+tagline: Every once in a while I look around for this. It's not quite here yet.
 tags:
 ---
 
