@@ -22,7 +22,7 @@ But I miss:
 
 ----
 
-## Still Want Github-Flavored CodeBlocks
+## I Want Github-Flavored CodeBlocks
 I really want to write github-style code blocks, so I tried using this plugin
 
 <pre>https://github.com/nono/Jekyll-plugins</pre>

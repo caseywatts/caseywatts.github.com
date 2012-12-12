@@ -7,9 +7,22 @@ subtitle: CodeSwarm visualizes code collaboration from git repositories
 
 It's so pretty!
 
-##Getting it working
-You can see how rails progress really spiked when they switched to github: `http://vimeo.com/2979844`
+##Examples
+You can see how rails progress really spiked when they switched to github:
 
+###[Rails](http://vimeo.com/2979844)
+
+Apparently, in 2008 they switched to github. I see that pretty clearly :)
+
+###[STC Shifts](http://vimeo.com/55079451)
+###[STC Reservations](https://vimeo.com/55080278)
+STC usually only works in the summer. Sometimes Adam tweaks things
+during the year. Some people import more libraries than others lol.
+
+----
+##Getting it working
+
+I have a [full script](https://gist.github.com/4234178) that describes how I set it up. Here's a summary.
 
 I cloned this, set it up etc:
 
