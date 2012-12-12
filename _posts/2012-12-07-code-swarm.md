@@ -35,3 +35,5 @@ http://code.google.com/p/codeswarm/wiki/GeneratingAVideo
 
 `ffmpeg -f image2 -r 24 -i %05d.png -sameq ./out.mov -pass 2`
 
+It looks like there's a command `code_swarm_video` that would generate a
+video more easily, but it requires `mencoder` which I never got working.
