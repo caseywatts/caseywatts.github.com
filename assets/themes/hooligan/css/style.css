@@ -409,3 +409,17 @@ div.sidebar section img.icon {
   margin-top:70px;
   margin-bottom:70px;
 }
+
+.posttitle {
+  font-size:30px;
+  margin-bottom:20px;
+}
+
+.datesnip {
+  font-size:15px;
+  margin:10px;
+}
+
+.postsubtitle {
+  margin-left:40px;
+}

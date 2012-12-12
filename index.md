@@ -4,13 +4,19 @@ title: Casey Watts
 tagline: Systems Optimizer
 ---
 
-Casey Watts likes to optimize systems. He likes technology, healthcare,
-coding, dancing, singing, and lolling.
- 
-## List of Posts
+Casey Watts likes to `optimize systems`.
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li class="postlist"><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>{{ post.content }}</li>
-    {% endfor %}
-</ul>
+He likes `technology`, `healthcare`, `coding`, `dancing`, `singing`, and `lolling`.
+
+----
+{% for post in site.posts %}
+<a href="{{ BASE_PATH }}{{ post.url }}">
+<div class="posttitle">
+{{ post.title }}<span class="datesnip">{{ post.date | date_to_string }}</span>
+</div>
+<div class="postsubtitle">
+  {{ post.subtitle }}
+</div>
+</a>
+----
+{% endfor %}

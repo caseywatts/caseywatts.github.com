@@ -2,12 +2,12 @@
 layout: post
 category : programming
 tags : [github]
+subtitle: CodeSwarm visualizes code collaboration from git repositories
 ---
 
-
-# Code Swarm
-
 It's so pretty!
+
+##Getting it working
 You can see how rails progress really spiked when they switched to github: `http://vimeo.com/2979844`
 
 
@@ -25,6 +25,9 @@ https://github.com/rictic/code_swarm/commit/f15334b162bd0f3f939f3879fbec1935bd09
 
 Then I ran code_swarm once
 
+Beautiful video appeared!
+
+###Getting Video Out
 Then I edited the .config file (after running it once) so that it would record frames
 
 `# Save each frame to an image?
@@ -35,5 +38,8 @@ http://code.google.com/p/codeswarm/wiki/GeneratingAVideo
 
 `ffmpeg -f image2 -r 24 -i %05d.png -sameq ./out.mov -pass 2`
 
+###Built-in command for video
 It looks like there's a command `code_swarm_video` that would generate a
 video more easily, but it requires `mencoder` which I never got working.
+
+Would this be easier if I just got mencoder working? Or would it be better to write-in a ffmpeg alternative?
