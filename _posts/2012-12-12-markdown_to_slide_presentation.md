@@ -16,11 +16,9 @@ Specifically:
 2. I want it to generate a presentation with minimal effort.
 3. I'm not picky about the output as long as it's presentable. It'll probably be HTML and that's okay.
 
----
 ## Frameworks Written in Modified Markdown 
 This is the interface I want!
 
----
 ## Frameworks Written in HTML
 
 [This post](http://www.sitepoint.com/5-free-html5-presentation-systems/)
@@ -36,6 +34,4 @@ of collaboration though, so it's not quite appropriate for my work
 unfortunately.
 
 ### Impress.js
-This isn't for me; I don't in any way want to emulate Prezi, I don't
-want to zoom in and out of anything. There are times where that's
-amazing, but I want to facilitate the organization of my materials; 
+This isn't for me; I don't in any way want to emulate Prezi, I don't want to zoom in and out of anything. There are times where that's amazing, but I want to facilitate the organization of my materials.
