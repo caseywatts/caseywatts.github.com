@@ -51,8 +51,12 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
 }
 
 /* line 49, ../_sass/_base.scss */
-h1, h2 {
+h1 {
   margin: 0 0 15px;
+}
+
+h2 {
+  margin: 50px 0 10px;
 }
 
 /* line 53, ../_sass/_base.scss */
@@ -62,7 +66,7 @@ h1 {
 
 /* line 57, ../_sass/_base.scss */
 h2 {
-  font-size: 30px;
+  font-size: 33px;
 }
 
 /* line 61, ../_sass/_base.scss */
@@ -150,8 +154,8 @@ hr {
 }
 /* line 134, ../_sass/_base.scss */
 .content p {
-  padding-top: 15px;
-  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-bottom: 5px;
   line-height: 25px;
   margin: 0;
 }
@@ -426,4 +430,12 @@ div.sidebar section img.icon {
 
 h3 {
   font-size:23px;
+  margin: 35px 0 0 0;
+  border-bottom: black solid 1px;
+  box-shadow: silver 0px 3px 6px -6px;
+}
+
+h4 {
+  font-size:18px;
+  margin: 10px 0 0 0;
 }
