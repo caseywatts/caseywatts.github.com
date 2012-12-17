@@ -21,7 +21,7 @@ STC usually only works in the summer. Sometimes Adam tweaks things during the ye
 
 ##Getting it working
 
-I have a [full script](https://gist.github.com/4234178) that describes how I set it up. Here's a summary.
+I have a [full gist](https://gist.github.com/4234178) that describes how I set it up; just a quick summary here.
 
 I cloned this, and set up the prerequisites according to the README:
 
@@ -29,7 +29,7 @@ I cloned this, and set up the prerequisites according to the README:
 https://github.com/rictic/code_swarm
 {% endhighlight %}
 
-I had to revert this commit to make it work (put a note on their wiki page to say so; I don't know enough python to fix it myself)
+This commit broke everything for me, so reverted it. I don't know enough python to come up with a better solution, but I put a note on their wiki page
 {% highlight html %}
 https://github.com/rictic/code_swarm/commit/f15334b162bd0f3f939f3879fbec1935bd094c8c
 {% endhighlight %}
