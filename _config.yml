@@ -80,7 +80,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : kyloma
+      short_name : caseywattsblog
     livefyre :
       site_id : 123
     intensedebate :
