@@ -33,5 +33,14 @@ My first tweak: I'm not happy with the `<li>` padding/margin, so I made it much 
 
 I'll probably go through tweaking it here and there for a while. Once I'm comfortable maybe I'll suggest improvements to the default :D
 
-###Conclusion
+##An example from an actual email we've sent
+The original email is (almost) completely raw; how we sent it anyway. The conversion is certainly easier to read. And we're not even using any of markdown's features except headers.
+
+####Before
+![before](/assets/images/markdown_here_before.png)
+
+####After
+![after](/assets/images/markdown_here_after.png)
+
+##Conclusion
 I'm excited to use markdown in one more place! Away with GUI formatting!
