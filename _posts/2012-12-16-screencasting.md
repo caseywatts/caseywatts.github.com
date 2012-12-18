@@ -2,7 +2,7 @@
 layout: post
 title: Screencasting
 tagline: can be done free, natively, using Quicktime Player
-tags:
+tags: tools
 ---
 
 

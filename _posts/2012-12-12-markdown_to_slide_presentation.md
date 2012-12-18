@@ -7,10 +7,11 @@ tags: [tools]
 
 HTML-based slideshows are becoming quite sophisticated. Powerful, yet simple to write. The future of presentations certainly lives in HTML, not `.ppt`. There are some markdown-based HTML-slideshow generators, but they tend to be weaker, limited by the syntax. But I want the best of both!
 
-I have a coder's crush on the HTML slideshow framework [Reveal.js](http://lab.hakim.se/reveal-js/), and I want it to compile to it from markdown. It looks so good. So good. [Remark](http://gnab.github.com/remark/) is a markdown-slide-compiler based on the [Deck.js](http://imakewebthings.com/deck.js/) HTML slideshow framework. I'm not as crazy about it, but it looks like it works well. It looks mature, but not feature-rich like Reveal.js which is mature and it works well.
-
 If I could choose whatever HTML Framework, I'd choose the beautiful [Reveal.js](http://lab.hakim.se/reveal-js/).
 If I had to write a presentation using markdown right now, I'd use [Remark](http://gnab.github.com/remark/).
+
+I have a coder's crush on the HTML slideshow framework [Reveal.js](http://lab.hakim.se/reveal-js/), and I want it to compile to it from markdown. It looks so good. So good. [Remark](http://gnab.github.com/remark/) is a markdown-slide-compiler based on the [Deck.js](http://imakewebthings.com/deck.js/) HTML slideshow framework. I'm not in love with it, but it looks like it works okay once set up.
+
 
 ## My Goal
 

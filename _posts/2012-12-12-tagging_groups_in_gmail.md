@@ -2,7 +2,7 @@
 layout: post
 title: Tagging Groups in GMail
 tagline: It's possible (but not straightforward) to filter emails that come from a set list of addresses.
-tags:
+tags: tools
 ---
 
 In my job, I'll never possibly be able to answer all of my emails.
