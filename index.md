@@ -10,7 +10,7 @@ Casey Watts likes to `optimize systems`.
 He likes `technology`, `healthcare`, `coding`, `dancing`, `singing`, and `lolling`.
 
 ----
-{% for post in site.posts limit:10 %}
+{% for post in site.posts limit:5 %}
 <a href="{{ BASE_PATH }}{{ post.url }}">
 <div class="posttitle">
 {{ post.title }}<span class="datesnip">{{ post.date | date_to_string }}</span>
