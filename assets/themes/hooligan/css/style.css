@@ -134,6 +134,7 @@ hr {
 /* line 111, ../_sass/_base.scss */
 .content img {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.8);
+  border-radius: 6px;
 }
 /* line 115, ../_sass/_base.scss */
 .content.no-header {
@@ -441,4 +442,16 @@ h4 {
 }
 .tooltiptitle {
   border-bottom: 1px dashed #555;
+}
+
+.well {
+ background-color:#262626;
+}
+
+.postinfo {
+ margin-left:50px;
+}
+
+.tag_box li{
+display:inline-block;
 }

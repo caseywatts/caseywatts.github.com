@@ -19,6 +19,19 @@
 
     <script src="{{ ASSET_PATH }}/js/jquery.min.js"></script>
     <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap.min.js"></script>
+    <script src="{{ ASSET_PATH }}/js/jquery-ui-1.9.2.custom.min.js"></script>
+    <script src="{{ ASSET_PATH }}/js/jquery.tocify.min.js"></script>
+    <script>
+      //Executes your code when the DOM is ready.  Acts the same as $(document).ready().
+      $(function() {
+      //Calls the tocify method on your HTML div.
+      $("#toc").tocify({selectors: "h2,h3,h4", showEffect: "fadeIn"});
+      if( $('#toc').children('ul').length < 3){
+       $("#toc").hide();
+      }
+      });
+    </script>
+    
 
     <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">    
@@ -26,6 +39,7 @@
     <link href="{{ ASSET_PATH }}/css/pygments.css" rel="stylesheet" type="text/css" media="all">
     <link href="{{ ASSET_PATH }}/css/darkstrap.css" rel="stylesheet" type="text/css" media="all">    
     <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+    <link href="{{ ASSET_PATH }}/css/jquery.tocify.css" rel="stylesheet" type="text/css" media="all">
 
     
     <!-- fav and touch icons -->
