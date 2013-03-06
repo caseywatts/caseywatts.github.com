@@ -7,7 +7,7 @@ tags:
 
 Most of these tricks I discovered by clicking around in Service Now.
 
-The most important lesson I've learned is that `Everything in Service Now is a button` - even things that don't look like buttons. Even when the cursor doesn't change to a finger.
+The most important lesson I've learned is that `Everything in Service Now is a button` - even things that don't look like buttons. Even when the cursor doesn't change to a finger. Click everything!
 
 
 ##Tricks in Service Now's Interface
