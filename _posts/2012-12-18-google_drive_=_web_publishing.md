@@ -6,7 +6,10 @@ tags: [tools]
 ---
 
 
-<http://googleappsdeveloper.blogspot.com/2012/11/announcing-google-drive-site-publishing.html>
+>Update 3/6/2013: You must have the folder published as "Public On The Web". Just "Anyone With The Link" won't work anymore.
+
+
+See [This Blog Post](http://googleappsdeveloper.blogspot.com/2012/11/announcing-google-drive-site-publishing.html) where I discovered the trick.
 
 You can host a web page on google drive now. You can even host relative assets, etc and google drive does a good job of finding them.
 
